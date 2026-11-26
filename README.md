@@ -29,8 +29,7 @@ model doesn't have, the card leaves out.
   **Empty bin** button appears on models that have one (the Q10).
 - **Errors**: robot and dock errors in a banner, with **Resolve** for a dock error.
 - **Maintenance**: hours left for the main brush, side brush, filter, sensors, dock strainer
-  and mop, in orange when overdue and amber when nearly due. Tap one to reset it from its
-  details.
+  and mop, in orange when overdue and amber when nearly due. Tap one to open its details.
 - **Controls**: room, suction and mode, then Start (or Resume), Pause, Stop, Dock and Locate.
   With a room chosen, Start cleans only that room.
 
