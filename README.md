@@ -48,7 +48,11 @@ hidden and Start cleans everywhere.
 
 [![Open your Home Assistant instance and open this repository in the Marketplace.](https://my.home-assistant.io/badges/marketplace_repository.svg)](https://my.home-assistant.io/redirect/marketplace_repository/?owner=enricodeleo&repository=roborock-vacuum-card&category=plugin)
 
-In Home Assistant 2026.11 or newer: **Settings → Marketplace → Add from link**, then enter
+In Home Assistant 2026.11 or newer: **Settings → Marketplace**, search for
+**Roborock Vacuum Card**, open it and click **Install**, then reload the browser. The button
+above opens it directly.
+
+If it doesn't show up in the search: **Settings → Marketplace → Add from link**, then enter
 `enricodeleo/roborock-vacuum-card`. Adding a link needs a one-time GitHub sign-in.
 
 Manual install: copy `dist/roborock-vacuum-card.js` to `/config/www/`, and add
